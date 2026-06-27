@@ -1,0 +1,17 @@
+#heading01{
+    color : red;
+}
+#heading02,h2{
+    color:rgb(234, 135, 15)
+}
+body{
+    background-color: aqua;
+}
+{color:beige;
+background-color: beige;
+}
+*{font-style: italic;
+font-display: swaps
+;}
+h2{font-style: oblique;}
+.myclass{color:rgb(27, 15, 207)}
